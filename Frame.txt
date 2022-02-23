@@ -1,0 +1,12 @@
+<html>
+<head> 
+<title> Contoh Frame </title>
+</head> 
+<frameset rows=" *, *, *">
+<frame rows="Frame1">
+<frame rows="Frame2">
+<frame rows="Frame3">
+</frameset>
+<body>
+</body>
+</html>

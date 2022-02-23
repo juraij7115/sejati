@@ -1,0 +1,64 @@
+<html>
+<head> 
+<title> Membina Pautan Teks </title>
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="RestoranyangMenarikdiSabah.html">Restoran Menarik di Sabah</a></li>
+<li><a href="Aktiviti Menarik.html">  Aktiviti Menarik di Sabah</a></li>
+<li><a href="Tempat Menarik di Sabah.html"> Tarikan Pelancong di Sabah </a></li>
+</ul>
+</nav>
+<head>
+<title> Kaum dan Budaya </title>
+</head>
+<body>
+<h1> Kaum dan Budaya di Sabah </h1>
+<h1> Tahukah anda?</h1>
+<h3> Sabah mempunyai lebih kurang 33 senarai etnik di Sabah yang telah dikenalpasti di negeri ini. 
+Sabah yang juga dikenali sebagai Negeri Di Bawah Bayu merupakan negeri kedua terbesar di Malaysia dengan kawasan menjangkau 72,000 kilometer persegi.
+Selain mempunyai 33 senarai etnik, penduduk di negeri ini juga berkomunikasi dalam 50 bahasa dan 80 dialek yang berbeza. Walaupun mempunyai etnik dan bahasa yang diversiti, pengunaan bahasa kebangsaan ditutur secara meluas di negeri ini.
+kebangsaan ditutur secara meluas di negeri ini.Selain mempunyai etnik yang banyak, Sabah juga terkenal dengan Gunung Kinabalu yang mencecah ketinggian 4,095.20m dan merupakan gunung tertinggi di Malaysia.
+Terdapat 3 kaum utama di Sabah. Antaranya ialah kaum Kadazan-dusun. </h3>
+<h4> Kadazan-Dusun merupakan kumpulan etnik yang terbesar di Sabah yang membentuk hampir 30% daripada keseluruhan jumlah penduduk. 
+Etnik Kadazan-Dusun ini mempunyai pelbagai bahasa dan dialek dengan pelbagai kebudayaan dan adat resam  tradisional kerana terdapat 27 suku kaum kecil di dalamnya. Kaum ini dibentuk oleh 2 kaum utama Sabah iaitu "Kadazan" dan "Dusun". 
+Namun disebabkan persamaan bahasa, budaya dan politik kaum Kadazan-dusun dibentuk untuk menyatukan kedua-dua kaum. 
+Pesta yang dirayakan oleh kaum ini ialah perayaan Pesta Keamatan yang dirayakan pada setiap 30 dan 31 Mei setiap tahun sempena hasil tuaian padi yang baik. </h4>
+
+<title> </title>
+
+
+<img src=" kadazandusun" alt="Pesta Kaamatan bagi Kaum Kadazan-Dusun" style"="width:300px;height:230px;&quot;">
+
+<h3> Selain itu, kaum Bajau. </h3>
+<h4> Kaum Bajau merupakan kaum bumiputera kedua terbesar di negeri Sabah. Kebanyakkan kaum Bajau beragama Islam. Mereka merupakan antara pelaut terkenal sebelum kedatangan penjajah. Mereka juga mempunyai kemahiran menunggan kuda.
+ Ia menjadi mereka terkenal di Sabah dan diberi gelaran " Cowboy Timur" atau " Cowboy Sabah". Perayaan yang dirayakan ialah perayaan "Regatta Lepa" yang disambut pada bulan April di daerah Semporna, Sabah. Juga boleh dianggap sebagai "Hari Raya" setiap tahun.
+Pengunjung berpeluang melihat sendiri lepa yang cantik diukir dan dihias. Terdapat juga sukan air seperti lumba perahu dan tarik perahu. </h4>
+
+<title> </title>
+
+<title> </title>
+
+
+<img src=" CowboySabah" alt="Cowboy Sabah" style"="width:300px;height:230px;&quot;">
+
+
+
+<img src=" KaumBajau" alt="Pesta Regatta Lepa bagi Kaum Bajau" style"="width:300px;height:230px;&quot;">
+
+<h3> Akhir sekali ialah kaum Murut. </h3>
+<h4> Kaum ini merupakan kaum yang tertua di Sabah. Ia dipercayai datang dari Annam, Indocina dan sampai ke Sabah melalui Kepulauan Filipina.Perkataan Murut bermaksud kepada kumpulan penduduk yang tinggal di lereng bukit atau tanah tinggi di pendalaman Sabah.
+Perayaan yang dirayakan oleh kaum ini ialah Mansisia. Mansisia dikenali sebagai Hari Pesta Menuai sebagai hari kesyukuran  dan bersuka-ria bagi para petani. Pesta ini dilengkapai dengan persembahan kebudayaan, minum tapai dan lain-lain. </h4>
+
+<title> </title>
+
+
+<img src=" KaumMurut" alt="Pesta Manisisia bagi Kaum Murut" style"="width:300px;height:230px;&quot;">
+
+
+
+
+
+</body>
+</html>

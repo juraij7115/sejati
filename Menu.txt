@@ -1,0 +1,19 @@
+<head> 
+<title>Menu</title>
+</head> 
+<body>
+<nav>
+<ul>
+<li><a href="Menu1.html">Kaum dan Budaya</a></li>
+<li><a href="Menu2.html">Destinasi menarik</a></li>
+<li><a href="Menu3.html">Restoran Menarik</a></li>
+<li><a href="Menu4.html">Pakaian Tradisonal</a></li>
+<li><a href="Menu5.html">Aktiviti Menarik</a></li>
+</ul>
+</nav>
+</body>
+</html>
+
+
+
+

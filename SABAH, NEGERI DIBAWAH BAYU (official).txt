@@ -1,0 +1,12 @@
+<html>
+<head> 
+<title> Frame </title>
+</head> 
+<frameset rows=" 30%,70%">
+<frame name="Frame1" src="SeseridanMalaysia.html">
+<frameset cols="100%">
+<frame rows="Frame1" src="Pelacongan ke Sazbah (official).html">
+</frameset>
+<body>
+</body>
+</html>

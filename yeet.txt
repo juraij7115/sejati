@@ -1,0 +1,7 @@
+<nav>
+<ul>
+<li><a href="KaumdanBudaya.html">Kaum dan Budaya di Sabah</a></li>
+<li><a href="RestoranyangMenarikdiSabah.html"> Restoran yang Menarik di Sabah</a></li>
+<li><a href="Tempat Menarik di Sabah.html"> Aktiviti Menarik di Sabah </a></li>
+</ul>
+</nav>

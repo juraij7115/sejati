@@ -1,0 +1,24 @@
+<html><head>
+<title> </title>
+<title> </title></head>
+
+
+<body>
+
+<html><head>
+<title> Banner </title>
+</head>
+<body>
+<banner>
+<img src="SabahFlag.png">
+</banner> 
+
+</body></html>
+<img src=" Malaysia" alt="Malaysia" style"="width:300px;height:230px;&quot;">
+
+
+<img src=" Seseri" alt="Seseri" style"="width:300px;height:230px;&quot;">
+
+
+
+</body></html>
